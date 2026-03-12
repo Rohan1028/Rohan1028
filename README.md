@@ -4,7 +4,6 @@ AI Engineer (Agentic AI & MLOps) building production-ready systems with measurab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhengale)
 [![Email](https://img.shields.io/badge/Email-rohan.dhengale%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohan.dhengale@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader)](./RESUME.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Rohan1028-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohan1028)
 
 ## About
