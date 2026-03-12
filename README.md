@@ -60,21 +60,6 @@ I focus on engineering AI systems that are both *useful* and *safe*:
   - Evaluation suite for factual accuracy, coherence, and safety
   - Integrated citation + fact-checking + toxicity controls for production RAG
 
-## Open Source / GitHub presence
-
-If you’re a recruiter, I recommend keeping your 6 most relevant repos pinned.
-
-Use these categories for pinning:
-
-1. **Production MLOps system** (full pipelines, monitoring, retraining)
-2. **LLM app or agentic workflow** (tool use + retrieval + policy layer)
-3. **Data/ML infrastructure project** (clean architecture, tests, CI/CD)
-4. **Research-to-production case study** (before/after metrics)
-5. **Frontend + backend demo** showing model integration
-6. **Small, well-documented utility repo** that shows code quality and testing discipline
-
-You can pin repos on your GitHub profile and keep this `README` as the landing context.
-
 ## Work in progress / currently learning
 
 - Advanced LLM optimization and deployment efficiency
@@ -92,10 +77,3 @@ You can pin repos on your GitHub profile and keep this `README` as the landing c
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rohan1028&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan1028&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1028&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Hiring profile snapshot
-
-- ✅ Currently on/eligible for U.S. work authorization through OPT (F-1 pathway)
-- ✅ Long-term sponsorship required for work visa support
-- ✅ Seeking full-time AI Engineering opportunities starting **May 2026**
-- ✅ Open to US-wide opportunities, especially teams building high-impact AI products with production rigor
