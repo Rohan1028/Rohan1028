@@ -1,4 +1,4 @@
-# Hi, I'm **Rohan Dhengale** 👋
+# Hi, I'm **Rohan Dhengale** 
 
 AI Engineer (Agentic AI & MLOps) building production-ready systems with measurable business impact.
 
